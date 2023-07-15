@@ -1,0 +1,8 @@
+#tables
+n=int(input("enter table no: "))
+for i in range(1,11):
+    print(n,"*",i,"=",n*i)
+--------------------------------------------
+#slicing
+n=input("enter a word: ")
+print(n[3:6:1])
