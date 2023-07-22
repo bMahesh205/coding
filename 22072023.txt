@@ -1,0 +1,6 @@
+w=540
+v=200
+tw=((4*v)-w)//2
+fw=v-tw
+print(tw,"mahi")
+print(fw,"mmm")
