@@ -1,0 +1,10 @@
+Convert digits into single digits
+------------------------------------------
+num=[9,81,123]
+s=""
+for i in num:
+  s=s+str(i)
+res=[]
+for i in s:
+  res.append(int(i))
+print(res)
